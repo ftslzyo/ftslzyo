@@ -1,7 +1,7 @@
 <div>
-<h1 align = "center">Hey there! 🔥</h1>
-<h2 align = "center">I'm <a href = "https://github.com/ftslzyo"> Luiz!</a>⚡</h2>
-<p align = "center">17yo | RS, Brasil | Junior Dev 📕</p>
+<h1>Hey there! 🔥</h1>
+<h2">I'm <a href = "https://github.com/ftslzyo"> Luiz!</a>⚡</h2>
+<p>17yo | RS, Brasil | Junior Dev 📕</p>
 </div>
 
 
