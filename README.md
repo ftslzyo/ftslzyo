@@ -41,11 +41,12 @@ I'm currently working on improving my programming skills, with a focus on back-e
 ## ⚒️  •  Featured Projects
 
 <div>
-  <h3> 🔎 INBANK </h3>
+  <h3>🔎<a href="https://github.com/ftslzyo/inbank">INBANK</a></h3>
   <p>
     An investigation management system focused on organizing cases, suspects, evidence, and investigation progress.
     <br>
-    <b>Tech Stack:</b> Java • MySQL • JDBC
+    <br>
+    <b>Tech Stack:</b>  Java • MySQL • JDBC
   </p>
 </div>
   
