@@ -1,6 +1,14 @@
 <div>
 <h1>Hey there! 🔥</h1>
-<h2>I'm <a href = "https://github.com/ftslzyo"> Luiz!</a>⚡</h2>
+<h2>Hi! I'm <a href = "https://github.com/ftslzyo"> Luiz!</a>⚡</h2>
+  
+<p>
+a Systems Development student interested in software development and technology.
+  <br>
+I'm currently working on improving my programming skills, with a focus on back-end development and web technologies.
+</p>
+
+  
 <p>17yo | RS, Brasil | Junior Dev 📕</p>
 </div>
 
@@ -28,5 +36,20 @@
   
   
 </div>
+
+---
+
+## ⚒️  •  Featured Projects
+
+<div>
+  <h3> 🔎 INBANK </h3>
+**Tecnologias:** Java · POO · MySQL · JDBC
+  
+  <p>
+    
+  </p>
+</div>
+  
+
 
 ---
