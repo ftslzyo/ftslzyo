@@ -1,6 +1,5 @@
 <div>
-<h1>Hey there! 🔥</h1>
-<h2>Hi! I'm <a href = "https://github.com/ftslzyo"> Luiz!</a>⚡</h2>
+<h1>Hi! I'm <a href = "https://github.com/ftslzyo"> Luiz!</a>⚡</h1>
   
 <p>
 a Systems Development student interested in software development and technology.
@@ -43,13 +42,11 @@ I'm currently working on improving my programming skills, with a focus on back-e
 
 <div>
   <h3> 🔎 INBANK </h3>
-**Tecnologias:** Java · POO · MySQL · JDBC
-  
   <p>
-    
+    An investigation management system focused on organizing cases, suspects, evidence, and investigation progress.
+    <br>
+    <b>Tech Stack:</b> Java • MySQL • JDBC
   </p>
 </div>
   
-
-
 ---
