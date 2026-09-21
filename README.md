@@ -1,5 +1,5 @@
 <div>
-<h1>Hi! I'm <a href = "https://github.com/ftslzyo"> Luiz!</a>⚡</h1>
+<h1>Hi! I'm Luiz!⚡</h1>
   
 <p>
 a Systems Development student interested in software development and technology.
