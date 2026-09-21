@@ -51,3 +51,13 @@ I'm currently working on improving my programming skills, with a focus on back-e
 </div>
   
 ---
+
+<div>
+  <h3>🎵<a href="https://github.com/ftslzyo/ayenoplayer">Ayeno Player</a></h3>
+  <p>
+    A web-based music player for uploading, organizing, and playing audio files.
+    <br>
+    <br>
+    <b>Tech Stack:</b>  HTML • CSS • TypeScript • Bootstrap • MySQL
+  </p>
+</div>
